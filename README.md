@@ -121,7 +121,7 @@ Trigger POST /etl/run-all to load all 11 tables at once
 ## Author
 
 **Kaviyakeerthana R**
-B.Tech Information Technology — Velalar College of Engineering and Technology
+B.Tech Information Technology 
 
 -  kaviyakeerthana1845@gmail.com
 -  [LinkedIn](https://www.linkedin.com/in/kaviyakeerthana-r-897280243/)
